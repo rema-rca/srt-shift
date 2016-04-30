@@ -37,7 +37,7 @@
 					<execution>
 						<phase>package</phase>
 						<goals>
-							<goal>shade</goal>
+							<goal>shade</goal> 
 						</goals>
 					</execution>
 				</executions>
